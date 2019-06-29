@@ -69,7 +69,7 @@ After the clustering, we predicted and combined the result. We reduced the RMSLE
 From this exercise, we learned that dummy categorical variables are useful. Originally, we used as.numeric to change our categorical variables to numeric variables. However, dummy is more accurate than simply treating them as numerics. Treating them as numeric make them look like there is a linear relationship between different factors while there is no this kind relationship between them at all. Using dummy can better represent categorical variables.
 We also reflect on why clustering does not help our model. Movies probably are more complicated that they should be grouped into more than 2 categories. Grouping them into 2 groups is not enough, but grouping them into more groups will reduce our train dataset and leads to low accuracy. As a result, we decided not to adopt clustering in our final model. 
 
-Other models we experimented include random forest, SVM and etc. For more details, please see [Full Report]
+Other models we experimented include random forest, SVM and etc. 
 
 **Model Accuray Table**:
 <img src="images/movies-7.PNG?raw=true"/>
@@ -92,4 +92,4 @@ Findings and Recommendations for movie producers:
 - As we can see from the plot, the third most important variable that indicates movie revenue is **year**. As the year gets closer and closer to nowadays, the movie revenue goes higher and higher. This suggests that the movie industry is getting more and more popular and profitable. People loves watching movies as entertainment. We suggest investors to continue to invest in movies industry to support better movie production.
 - **Budget** is the most important factor that can influence revenue. However, for those low-budget movies, a good overview, proper length of runtime, as well as the marketing campaigns before the movie is on can all help them to improve their revenue.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For presentation deck, please see [Click Here For Project Result Presentation Deck](/pdf/MoviePrediction.pdf).
