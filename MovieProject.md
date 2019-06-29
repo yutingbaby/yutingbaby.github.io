@@ -31,9 +31,10 @@ We have a combination of numerical data and text data. We first looked at the di
 Below are exploratary on some selected variables.
 
 **Revenue**: Only a small number of movies has high revenue, whereas the majority doesn’t. The distribution of revenue is greatly positive skew. Due to the large range of revenue, we decided to do the log to revenue for a clearer distribution.    
+
 <img src="images/movies1.jpg?raw=true"/>
  
-
+<img src="images/movies.jpg?raw=true"/>
 **Year and revenue**: Looking at the average revenue from 1921, we can find that the revenue for the film industry has been soaring. The industry is increasingly growing at a fast pace.  
 <img src="images/movies2.jpg?raw=true"/>
 
