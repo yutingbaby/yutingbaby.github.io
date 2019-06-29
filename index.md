@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Movie Revenue Prediction](/sample_page)
+[Project 1 Movie Revenue Prediction](/pdf/MoviePrediction.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
