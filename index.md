@@ -9,8 +9,8 @@ Using NLP (sentiment analysis & key word extration) with xgboost to predict Movi
 
 ---
 
-## [Project 1: Airbnb Price Prediction2](http://rpubs.com/YTCAT/444778/)
-Using Random Forest to predict Airbnb price; first project in R
+## [Project 1: Airbnb Price Prediction](http://rpubs.com/YTCAT/444778/)
+Using Random Forest to predict Airbnb price; my first project
 
 ---
 
