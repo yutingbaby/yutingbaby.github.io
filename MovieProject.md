@@ -32,20 +32,19 @@ Below are exploratary on some selected variables.
 
 **Revenue**: Only a small number of movies has high revenue, whereas the majority doesn’t. The distribution of revenue is greatly positive skew. Due to the large range of revenue, we decided to do the log to revenue for a clearer distribution.    
 
-<img src="images/movies1.jpg?raw=true"/>
+<img src="images/movies-1.jpg?raw=true"/>
  
-<img src="images/movies.jpg?raw=true"/>
 **Year and revenue**: Looking at the average revenue from 1921, we can find that the revenue for the film industry has been soaring. The industry is increasingly growing at a fast pace.  
-<img src="images/movies2.jpg?raw=true"/>
+<img src="images/movies-2.jpg?raw=true"/>
 
 
 **Numeric Data Heatmap** The following heatmap indicates that budget has the highest correlation with revenue. And popularity is the second one.
-<img src="images/movies3.jpg?raw=true"/>
+<img src="images/movies-3.jpg?raw=true"/>
   
   
 **Genres/producing company and revenue**: The most popular genres of movies are Drama, Comedy, Thriller, and Action. The top three movie producing companies are Warner Bros, Universal Pictures, and Paramount Pictures.
 For genres, even though Adventure, Animation, Family, and Fantasy are not the most popular genres, their revenue is much higher than other types(first and second pictures). For producing companies, Walt Disney has much higher revenue than others (third one).
-<img src="images/movies4.jpg?raw=true"/>
+<img src="images/movies-4.jpg?raw=true"/>
 
 
 **Overview and revenue**:
@@ -54,8 +53,8 @@ In our dataset, the overview of each movie conveys important information about a
 
 The first two charts shows the relationship between revenue and the sentiment score of the overview. The last six charts shows the relationship between the revenue and the number of words with certain emotion. From these bar charts, a conclusion can be got that the overviews of movies with high revenue tend to include less sentimental words. The emotion of their overview is relatively neutral.
 
-<img src="images/movies5.jpg?raw=true"/>
-<img src="images/movies6.jpg?raw=true"/>
+<img src="images/movies-5.jpg?raw=true"/>
+<img src="images/movies-6.jpg?raw=true"/>
 
 
 ### 4. Predictive Model and Result
@@ -73,11 +72,11 @@ We also reflect on why clustering does not help our model. Movies probably are m
 Other models we experimented include random forest, SVM and etc. For more details, please see [Full Report]
 
 **Model Accuray Table**:
-<img src="images/movies7.jpg?raw=true"/>
+<img src="images/movies-7.jpg?raw=true"/>
   
 ### 5. Conclusion and Recommendations from the Analysis
 Our final model used both Text Mining and xgboost. It has the lowest error rate with rmsle equals to 2.18. We run a variable importance plot based on the xgboost model as shown below to understand what factors influence movie revenue.
-<img src="images/movies8.jpg?raw=true"/>
+<img src="images/movies-8.jpg?raw=true"/>
 
 Based on our final xgboost model variable importance plot, below are some of our findings and recommendations.
 Findings and Recommendations for movie producers:
