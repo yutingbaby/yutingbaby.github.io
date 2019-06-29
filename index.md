@@ -4,7 +4,7 @@
 
 ## Category 1: Predictive Analysis
 
-### [Project 1: Movie Revenue Prediction](/MovieProject)
+## [Project 1: Movie Revenue Prediction](/MovieProject)
 Using NLP (sentiment analysis & key word extration) with xgboost to predict Movies' revenues and make recommendations for movie producers
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
