@@ -11,11 +11,7 @@ Using NLP (sentiment analysis & key word extration) with xgboost to predict Movi
 
 ## Project 2: Natural Language Processing
 
-- [Project 1 Movie Revenue Prediction](http://baidu.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project To be Continued]
 
 ---
 
