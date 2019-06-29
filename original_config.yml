@@ -1,0 +1,11 @@
+title: Yuting Gong # your name (or website title) here
+logo: "IMG-7224.JPG?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  M.S. in Applied Analytics at Columbia University
+  <br><br>
+  Email me at: yg2641@columbia.edu 
+  <br><br>
+  <a href="https://www.linkedin.com/in/yuting-gong-03b14895/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
