@@ -26,6 +26,11 @@ In our analysis, we applied many analytical techniques such as text mining, clus
 
 ### 3. Exploratoray Data Analysis and Models
 
+Revenue: Only a small number of movies has high revenue, whereas the majority doesn’t. The distribution of revenue is greatly positive skew. Due to the large range of revenue, we decided to do the log to revenue for a clearer distribution.    
+
+Year and revenue: Looking at the average revenue from 1921, we can find that the revenue for the film industry has been soaring. The industry is increasingly growing at a fast pace.  
+
+
 In our dataset, the overview of each movie conveys important information about a  movie’ content. We looked forward to finding out if the emotion in these movies, as well as the frequency of a word has impact on movies’ revenue. For this purpose, sentiment analysis can be a good choice to help us discover and extract meaningful patterns and relationships from text. To be more specific, firstly, we counted the overview length in words and in sentences separately. Then, we used "nrc" lexicon to count the number of words that show certain sentiment, such as positive, negative, anger, etc., and tried "afinn" lexicon to scores the sentiment of each overview. Besides, we created and prepared a corpus which contained all the meaningful words in the overviews of train and test data, and found out the words appeared most frequently.
 
 
