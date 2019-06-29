@@ -32,19 +32,24 @@ Below are exploratary on some selected variables.
 
 **Revenue**: Only a small number of movies has high revenue, whereas the majority doesn’t. The distribution of revenue is greatly positive skew. Due to the large range of revenue, we decided to do the log to revenue for a clearer distribution.    
 <img src="images/movies1.jpg?raw=true"/>
-  
+ 
+
 **Year and revenue**: Looking at the average revenue from 1921, we can find that the revenue for the film industry has been soaring. The industry is increasingly growing at a fast pace.  
 <img src="images/movies2.jpg?raw=true"/>
 
+
 **Numeric Data Heatmap** The following heatmap indicates that budget has the highest correlation with revenue. And popularity is the second one.
 <img src="images/movies3.jpg?raw=true"/>
+  
   
 **Genres/producing company and revenue**: The most popular genres of movies are Drama, Comedy, Thriller, and Action. The top three movie producing companies are Warner Bros, Universal Pictures, and Paramount Pictures.
 For genres, even though Adventure, Animation, Family, and Fantasy are not the most popular genres, their revenue is much higher than other types(first and second pictures). For producing companies, Walt Disney has much higher revenue than others (third one).
 <img src="images/movies4.jpg?raw=true"/>
 
+
 **Overview and revenue**:
 In our dataset, the overview of each movie conveys important information about a  movie’ content. We looked forward to finding out if the emotion in these movies, as well as the frequency of a word has impact on movies’ revenue. For this purpose, sentiment analysis can be a good choice to help us discover and extract meaningful patterns and relationships from text. To be more specific, firstly, we counted the overview length in words and in sentences separately. Then, we used "nrc" lexicon to count the number of words that show certain sentiment, such as positive, negative, anger, etc., and tried "afinn" lexicon to scores the sentiment of each overview. Besides, we created and prepared a corpus which contained all the meaningful words in the overviews of train and test data, and found out the words appeared most frequently.
+
 
 The first two charts shows the relationship between revenue and the sentiment score of the overview. The last six charts shows the relationship between the revenue and the number of words with certain emotion. From these bar charts, a conclusion can be got that the overviews of movies with high revenue tend to include less sentimental words. The emotion of their overview is relatively neutral.
 
