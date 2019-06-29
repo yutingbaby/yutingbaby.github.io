@@ -1,25 +1,21 @@
-## Portfolio
+# Data Science Portfolio
 
 ---
 
-### Category Name 1 
+## Category 1: Predictive Analysis
 
-[Project 1 Movie Revenue Prediction](/MovieProject)
-
-[Project Result Presentation Deck](/pdf/MoviePrediction.pdf)
+#### [Project 1 Movie Revenue Prediction](/MovieProject)
+Using NLP (sentiment analysis & key word extration) with xgboost to predict Movies' revenues and make recommendations for movie producers
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Category 2: Natural Language Processing
 
 - [Project 1 Movie Revenue Prediction](http://baidu.com/)
 - [Project 2 Title](http://example.com/)
