@@ -39,7 +39,7 @@ Below are exploratary on some selected variables.
 
 
 **Numeric Data Heatmap** The following heatmap indicates that budget has the highest correlation with revenue. And popularity is the second one.
-<img src="images/movies-3.PNG?raw=true"/>
+<img src="images/movies-3.PNG?raw=false"/>
   
   
 **Genres/producing company and revenue**: The most popular genres of movies are Drama, Comedy, Thriller, and Action. The top three movie producing companies are Warner Bros, Universal Pictures, and Paramount Pictures.
