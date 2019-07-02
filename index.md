@@ -6,12 +6,15 @@ Welcome to read about my data science projects.
 
 - [More Projects To be Continued]
 
+### [Project 1: Music Recommendation](https://github.com/yutinggong/PythonProjectMusicRecommendation/blob/master/music%20recommendation%20project%20(Three%20Models).ipynb/)
+In this project, I used exploratory data analysis to understand people's music preference and their journey to find new music. Then I deployed random forest,xgboost and lgbm to predict if they will repeatedly listen to a music or not.
+
 ---
 
 
 ## R projects
 ### [Project 2: Movie Revenue Prediction](/MovieProject)
-Using NLP (sentiment analysis & key word extration) with xgboost to predict Movies' revenues and make recommendations for movie producers
+Using NLP (sentiment analysis & key word extration) with xgboost to predict Movies' revenues and make recommendations for movie producers to generate more revenue
 
 ---
 
