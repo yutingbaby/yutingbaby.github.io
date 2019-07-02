@@ -15,6 +15,7 @@ In this project, I used exploratory data analysis to understand people's music p
 
 ## R projects
 ### [Project 2: Movie Revenue Prediction](/MovieProject)
+<img src="images/movies.jpg?raw=true"/>
 Using NLP (sentiment analysis & key word extration) with xgboost to predict Movies' revenues and make recommendations for movie producers to generate more revenue
 
 ---
