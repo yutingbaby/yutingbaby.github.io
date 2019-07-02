@@ -92,5 +92,4 @@ Findings and Recommendations for movie producers:
 - As we can see from the plot, the third most important variable that indicates movie revenue is **year**. As the year gets closer and closer to nowadays, the movie revenue goes higher and higher. This suggests that the movie industry is getting more and more popular and profitable. People loves watching movies as entertainment. We suggest investors to continue to invest in movies industry to support better movie production.
 - **Budget** is the most important factor that can influence revenue. However, for those low-budget movies, a good overview, proper length of runtime, as well as the marketing campaigns before the movie is on can all help them to improve their revenue.
 
-For presentation deck, please [Click Here For Project Result Presentation Deck](/pdf/MoviePrediction.pdf).
-If you are interested in reading the code, please check out my github.
+[Click Here For Github of this project](https://github.com/yutinggong/Project2movieRevenuePrediction/)
